@@ -194,8 +194,8 @@ canvas {
 
 /* ---- About ---- */
 .about-section {
-    background-color: black;
-    height: 100vh;
+    background-color: #FFFFFF;
+    height: 93vh;
 }
 
 .about-section-flex {
@@ -252,7 +252,7 @@ canvas {
 
 .about-learn-more {
     color: #FFFFFF !important;
-    background-color: #DB4437 !important;
+    background-color: #FFFFFF !important;
     border-radius: 25px;
     margin-top: 20px;
     margin-bottom: 30px;
@@ -261,7 +261,7 @@ canvas {
 }
 
 .about-learn-more:hover {
-    background-color: #DB4437;
+    background-color: #FFFFFF;
 }
 
 /* ---- What We Do ---- */
@@ -505,7 +505,7 @@ canvas {
 
 .contact-submit {
     color: #FFFFFF !important;
-    background-color: #DB4437 !important;
+    background-color: #FFFFFF !important;
     border-radius: 25px;
     height: 45px;
     width: 175px;
